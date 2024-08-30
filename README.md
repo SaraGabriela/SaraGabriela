@@ -13,7 +13,7 @@ In this space, I share my projects and experiments aimed at fostering a sustaina
 
 ### Featured Projects 🚀
 
-- **[SetOnSrone](https://ethglobal.com/showcase/setonstone-uvbot)**: Presented in EthBogota Hackathon. Decentralized legal information about gender legal cases. Getting vulnerable women being helped contacting them with gender-specialized institutions.
+- **[SetOnStone](https://ethglobal.com/showcase/setonstone-uvbot)**: Presented in EthBogota Hackathon. Decentralized legal information about gender legal cases. Getting vulnerable women being helped contacting them with gender-specialized institutions.
 
 - **[https://unastronauta.hotglue.me/](https://unastronauta.hotglue.me/)**: Collage-type project to play with the idea of exploration through interaction with the browser and sounds.
 
